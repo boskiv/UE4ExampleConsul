@@ -1,3 +1,3 @@
-[submodule "Plugins/UE4ConsulRegister"]
-	path = Plugins/UE4ConsulRegister
+[submodule "Plugins/ConsulRegister"]
+	path = Plugins/ConsulRegister
 	url = https://github.com/boskiv/UE4ConsulRegister
